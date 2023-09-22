@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Ignorar datos de la web
-web/data/*
+# web/data/*
