@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Para ejecutar el chatbot, se debe cargar su base de datos de productos completa o de test en GCP. Puede hacerlo moviendo el archivo para embeddings y de productos creados a la carpeta project dentro de un notebook en Vertex AI Workbench o cargarlos directamente en un bucket de GCP mediante BigQuery.
 
-Luego de esto, ejecute el notebook en Vertex AI Workbench llamado "get_embeddings.ipynb" y siga las instrucciones que se encuentran en él. Este notebook se encargará de crear los embeddings de los productos y guardarlos en un bucket de GCP.
+Luego de esto, ejecute el notebook en Vertex AI Workbench llamado "get_embeddings.ipynb" y siga las instrucciones que se encuentran en él. Este notebook se encargará de crear los embeddings de los productos y guardarlos posteriormente.
 
 Finalmente, ejecute la aplicación de Streamlit mediante el siguiente comando en la terminal:
 
