@@ -161,3 +161,4 @@ cython_debug/
 
 # Ignorar datos de la web
 # web/data/*
+*.json
