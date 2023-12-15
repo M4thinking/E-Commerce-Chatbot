@@ -1,0 +1,6 @@
+project_id: e-commerce-llm-chatbot
+region: us-central1
+bucket: e-commerce-llm-bucket
+model_name: textembedding-gecko@latest
+dataset_id: e-commerce-llm-chatbot.ecommerce_db_test
+verbose: False
