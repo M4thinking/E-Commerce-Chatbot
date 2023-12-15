@@ -30,6 +30,10 @@ Finalmente, ejecute la aplicación de Streamlit mediante el siguiente comando en
 streamlit run chatbot.py
 ```
 
+Si todo se ejecutó correctamente, debería ver una ventana como en el siguiente ejemplo de uso:
+<!-- Agregar la imagen -->
+![Interfaz del chatbot](resultado.png)
+
 ## Autores
 - Sebastián Guzmán
 - Diana Escobar
